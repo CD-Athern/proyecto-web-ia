@@ -4,6 +4,7 @@ Carlos Ayala alias "CD-Athern"
 Descripción
 Portal·Dex consume datos reales con `fetch()`. Cada página trae 20 personajes con foto, nombre, estado, especie y una descripción generada a partir de sus datos (origen, última ubicación y episodios). El diseño es asimétrico y colorido, con tarjetas inclinadas, un portal animado y sombras duras.
 
+IA usada:Chatgpt
 
 El proyecto está construido como una aplicación estática, sin servidor propio ni dependencias externas que deban instalarse. La información de los personajes se obtiene en tiempo real desde la API.
 
